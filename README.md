@@ -26,5 +26,4 @@ The page is fully static and can be opened in any modern web browser.
 
 
 
-## 📂 Project Structure
 
